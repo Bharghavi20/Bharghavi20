@@ -125,9 +125,9 @@ public class Bharghavi {
 <summary><b>📚 Coursework & Certifications</b></summary>
 <br>
 
-- 🎓 **B.E. Computer Science & Engineering** — Core subjects: DSA, OS, DBMS, CN, Compiler Design, OOP
+- 🎓 **B.Tech information technology** — Core subjects: DSA, OS, DBMS, CN, Compiler Design, OOP
 - 💡 **ASP.NET Core & Clean Architecture** — Self-studied full-stack web development
-- ☕ **Java Programming** — Focus on OOP, Collections, DSA problem solving
+- ☕ **Java Programming along with java full stack** — Focus on OOP, Collections, DSA problem solving
 
 </details>
 
@@ -188,13 +188,11 @@ public class Bharghavi {
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge" />
 </a>
 &nbsp;
-<a href="mailto:bharghavi20@example.com">
+<a href="mailto:bharghaviprabhu2005@gmail.com">
   <img src="https://img.shields.io/badge/📧%20Email-Reach%20Out-EA4335?style=for-the-badge" />
 </a>
 
 <br/><br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 

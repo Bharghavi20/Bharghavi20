@@ -39,8 +39,9 @@ public class Bharghavi {
         "Java Full Stack  →  Spring Boot + React",
         ".NET Full Stack  →  ASP.NET Core + Angular",
         "Frontend         →  HTML, CSS, JavaScript, React",
-        "Backend          →  Java, Spring Boot, ASP.NET Core",
-        "Database         →  MySQL, SQL Server"
+        "Backend          →  Java, Spring Boot, ASP.NET Core, Python",
+        "Mobile           →  Android Development",
+        "Database         →  MySQL, SQL Server, Supabase"
     };
 
     String[] currentFocus = {
@@ -63,6 +64,7 @@ public class Bharghavi {
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -84,9 +86,14 @@ public class Bharghavi {
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/Razor%20Pages-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### 📱 Mobile & Other Technologies
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -114,7 +121,8 @@ public class Bharghavi {
 
 | 🗂️ Project | 📝 Description | 🔧 Tech Stack | 🔗 Link |
 |---|---|---|---|
-| 🏦 **Learning management system** | Full-stack learning app with JWT auth, Clean Architecture & REST APIs | ASP.NET Core, Angular, EF Core, SQL Server | [View →](https://github.com/Bharghavi20) |
+| 🏥 **Nalam** | Hospital load balancer that smartly distributes patients across hospitals — built at SRM Hackathon | Android, Python, Supabase | [View →](https://github.com/Bharghavi20) |
+| 🏦 **Learning Management System** | Full-stack LMS with JWT auth, Clean Architecture & REST APIs | ASP.NET Core, Angular, EF Core, SQL Server | [View →](https://github.com/Bharghavi20) |
 | 🛒 **E-Commerce App** | Full-stack shopping platform with product management & cart | Spring Boot, React, MySQL, REST API | [View →](https://github.com/Bharghavi20) |
 | 🌐 **My Portfolio** | Personal developer portfolio showcasing all skills & projects | HTML, CSS, JavaScript | [Live ↗](https://bharghavi20.github.io/My-portfolio/) |
 | 🖥️ **Computer Network Labs** | Implementations of networking protocols & socket programming | C | [View →](https://github.com/Bharghavi20/Computer-network) |
@@ -131,7 +139,8 @@ public class Bharghavi {
 <summary><b>🏆 Competitions & Hackathons</b></summary>
 <br>
 
-- 🥇 **HCL Hackathon** — Built a full-stack Banking System using Clean Architecture (ASP.NET Core + Angular), covering real-world domains: e-commerce, banking & payments *(2026)*
+- 🏥 **SRM Hackathon** — Built **Nalam**, a hospital load balancer app that intelligently distributes patients across hospitals based on availability & capacity *(2026)*
+- 🥇 **HCL Hackathon** — Built a full-stack Learning Management System using Clean Architecture (ASP.NET Core + Angular) *(2026)*
 - 📝 **TCS NQT** — Appeared for TCS National Qualifier Test targeting Digital/Prime role *(March 2026)*
 
 </details>
@@ -140,10 +149,11 @@ public class Bharghavi {
 <summary><b>📚 Coursework & Learning</b></summary>
 <br>
 
-- 🎓 **B.Tech. Information Technology** — DSA, OS, DBMS, Computer Networks, Compiler Design, OOP
+- 🎓 **B.. Information Technology** — DSA, OS, DBMS, Computer Networks, Compiler Design, OOP
 - ☕ **Java Full Stack** — Spring Boot, Hibernate/JPA, REST APIs, React
 - 🔷 **.NET Full Stack** — ASP.NET Core, Entity Framework Core, Clean Architecture, Angular
 - 🎨 **Frontend Development** — HTML5, CSS3, JavaScript, React
+- 📱 **Mobile Development** — Android with Python backend & Supabase
 
 </details>
 
@@ -182,7 +192,8 @@ public class Bharghavi {
 
 ```
 ✅  Crack TCS NQT — Digital/Prime Role
-✅  Build Banking System with .NET Full Stack (HCL Hackathon)
+✅  Build LMS with .NET Full Stack (HCL Hackathon)
+✅  Build Nalam — Hospital Load Balancer (SRM Hackathon)
 🔄  Build E-Commerce App with Java Full Stack (Spring Boot + React)
 ⬜  Contribute to Open Source Projects
 ⬜  Solve 300+ DSA Problems on LeetCode
